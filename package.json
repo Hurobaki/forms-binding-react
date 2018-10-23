@@ -1,6 +1,6 @@
 {
   "name": "forms-binding-react",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "",
   "main": "build/index.js",
   "scripts": {
@@ -45,6 +45,7 @@
     "react-dom": "^16.4.0"
   },
   "dependencies": {
+    "@babel/polyfill": "7.0.0",
     "prop-types": "15.6.2",
     "react-scripts": "1.1.4"
   }
