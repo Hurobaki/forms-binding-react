@@ -1,6 +1,6 @@
 {
   "name": "forms-binding-react",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "",
   "main": "build/index.js",
   "scripts": {
@@ -8,8 +8,18 @@
     "start": "webpack --watch",
     "build": "webpack"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Théo Herveux",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Hurobaki/forms-binding-react"
+  },
+  "keywords": [
+    "react",
+    "forms",
+    "HOC",
+    "Function As a Children Component"
+  ],
+  "license": "MIT",
   "peerDependencies": {
     "react": "^16.4.0",
     "react-dom": "^16.4.0"
